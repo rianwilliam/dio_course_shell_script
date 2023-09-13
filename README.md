@@ -5,4 +5,4 @@
 
 ### Desafio:
 
-<img src="/assets/Captura de tela de 2023-09-12 13-31-22.png" width=600>
+<img src="/assets/desafio.png" width=600>
